@@ -35,3 +35,16 @@ Can also be installed via pip as follows:
 
 ## Training Networks
  Explanation will come later here..
+ 
+ 
+ 
+ -------
+ ## Analyzing Results 
+ According the original article. Authors suggested several ways to analyzed:
+ * **Manual inspection:**
+ 
+ * **TensorBoard:** The training script also exports various running statistics in a *.tfevents file that can be visualized in TensorBoard with tensorboard --logdir <result_subdir>. It is not avaliable in this code but will try to implement.
+ 
+ * **Quality metrics:** Sliced Wasserstein distance, Fréchet inception distance, etc.
+ 
+ 
