@@ -1,7 +1,7 @@
 
 Main purpose of this repository is to gather some image synthesis related GANs and prepare proper database for further projects may be required later. It may be useful for different type of datasets.  
 
-# PGAN  
+# PGGAN  
 Synthesis Faces using Progressive Growing GANs
 
 ## Related Papers 
